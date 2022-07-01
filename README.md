@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on clone of tennis game for Atari 2600 in processing
 - 🌱 I’m currently learning kotlin for Native Android Development and Processing for my University classes
+- 🌱 I’m know a little of C++, Python, Javascript and Lua, but didn't ever worked professionaly with any of them.
 - 👯 I’m looking to collaborate on open source game projects
 - 🤔 I’m looking for help with understanding concepts of openGL or VULKAN
 - 💬 Ask me about anything
